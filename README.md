@@ -8,3 +8,4 @@ Edited From Gamerhack, delete some files that are not needed.
 - [sleirsgoevy](https://github.com/sleirsgoevy)
 - [ChendoChap](https://github.com/ChendoChap)
 - [hippie68](https://github.com/hippie68)
+<p align="center">-ʜᴇʜᴀx-</p>
