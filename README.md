@@ -7,6 +7,4 @@ Edited From Gamerhack, delete some files that are not needed.
 - [gamerhack](https://github.com/GamerHack)
 - [sleirsgoevy](https://github.com/sleirsgoevy)
 - [ChendoChap](https://github.com/ChendoChap)
-
-## Special thanks
 - [hippie68](https://github.com/hippie68)
