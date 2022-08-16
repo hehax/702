@@ -1,5 +1,5 @@
-PS4 Hombrew Enabler 7.02 Bahasa Indonesia (<a href="https:hehax.github.io/702">hehax.github.io/702</a>
-Original from hippie68  (<a href="https://github.com/hippie68">https://github.com/hippie68</a>
+PS4 Hombrew Enabler 7.02 Bahasa Indonesia <a href="https://heheax.github.io/702">https://hehax.github.io/702<br>
+Original from hippie68  <a href="https://github.com/hippie68">https://github.com/hippie68</a>
 
 <hr />
 
